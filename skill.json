@@ -1,0 +1,15 @@
+{
+  "name": "genpark-particle-filter-monte-carlo-localization-skill",
+  "version": "1.0.0",
+  "description": "Particle filter (SIR) for non-linear Monte Carlo localization.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "particle-filter",
+    "monte-carlo-localization",
+    "sir-filter",
+    "bayesian-filtering",
+    "agentic-ai"
+  ]
+}
